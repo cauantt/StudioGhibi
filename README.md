@@ -9,4 +9,4 @@
 ![image](https://github.com/cauantt/StudioGhibi/assets/131816676/3c7edc30-907c-4cd1-8265-20ff24725d70)
 
 
-![image](https://github.com/cauantt/StudioGhibi/assets/131816676/a122e47f-54e6-46c9-a0f9-364094ba6cf2)
+
