@@ -9,7 +9,7 @@ import Content from './Components/layout/Content';
 function App() {
   return (
     <div className="relative">
-      <div className="App  bg-cover h-screen flex flex-col items-center" >
+      <div className="App bg-center bg-cover  h-screen flex flex-col items-center p-5 " >
 
         <Header />
         <Content />
