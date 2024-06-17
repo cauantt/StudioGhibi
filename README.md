@@ -1,12 +1,13 @@
-![image](https://github.com/cauantt/StudioGhibi/assets/131816676/a82cbb74-a824-4a46-9917-81ef500ef97d)
+![image](https://github.com/cauantt/StudioGhibi/assets/131816676/9f3dbedd-e50e-4751-af1b-1c2ab6e3d00d)
 
 
 
 
-![image](https://github.com/cauantt/StudioGhibi/assets/131816676/f1b990e4-c94b-4ffe-b3e8-5da439707537)
+![image](https://github.com/cauantt/StudioGhibi/assets/131816676/48528592-5a8f-45ab-b271-0c63e6ded3a9)
 
 
-![image](https://github.com/cauantt/StudioGhibi/assets/131816676/3c7edc30-907c-4cd1-8265-20ff24725d70)
+
+![image](https://github.com/cauantt/StudioGhibi/assets/131816676/db1e6151-f326-4abc-89cc-606711c9c87d)
 
 
 
