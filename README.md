@@ -1,3 +1,5 @@
+A responsive website
+
 ![image](https://github.com/cauantt/StudioGhibi/assets/131816676/9f3dbedd-e50e-4751-af1b-1c2ab6e3d00d)
 
 
