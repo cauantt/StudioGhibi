@@ -1,5 +1,8 @@
 # Studio Ghibli is a responsive website featuring the film 'Spirited Away'.
 
+This site was developed using the following technologies:
+React, Html and Tailwind CSS
+
 ![image](https://github.com/cauantt/StudioGhibi/assets/131816676/1ce1d80f-8f6e-41d6-8caa-edbd130d1443)
 
 ## DESKTOP
